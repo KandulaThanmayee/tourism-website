@@ -1,13 +1,3 @@
-# CS476-TourismWebsite
-# Members:
-
- - Sai Abhishek  Venukadasula
- * Jovanjeet Singh Toor 
- + Lalith Souri Vummadi
- - Ritika Jaidka
- * Husanpreet Kaur Sidhu
- 
-
 # Project Idea:
 
 This website gives a quick overview to the user about tourism in alberta. The website mostly focuses on delivering the right information about the travel destinations, view points, and fun activities to do in Alberta through different seasons. This user-friendly website provides a booking system to the users who are new to Canada in order to let them choose the best and affordable accommodations to stay in alberta.
